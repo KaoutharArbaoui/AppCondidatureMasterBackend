@@ -1,2 +1,3 @@
 # AppCondidatureMasterBackend
-Consult the IndexationVue.js repository for the Front-end part.
+Consult the AppCondidatureMasterFrontend repository for the Front-end part.
+https://github.com/KaoutharArbaoui/AppCondidatureMasterFrontend
